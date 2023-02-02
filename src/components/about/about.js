@@ -12,16 +12,16 @@ export default class About extends Component {
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
-              <p>As a skilled and motivated Software Developer, I am highly proficient in multiple technologies including JavaScript, PHP, SQL, HTML, CSS, MVC and SPA frameworks. I enjoy working on web applications, mobile applications, software and websites. In a constantly evolving industry, my hardworking and passionate spirit achieves positive results in an efficient and resourceful manner.
+              <p>Skilled and motivated Software Developer with 6 years of experience working with technologies such as PHP, JavaScript, MySQL, CodeIgniter, Angular, WordPress, REST APIs and more. In a constantly evolving industry, my hardworking and passionate spirit achieves positive results in an efficient and resourceful manner.
               </p>
-              <p>I currently reside in sunny Irvine, California. When I'm not working or strengthening my skill set, you can find me actively exploring all that this beautiful state has to offer. From mountain biking to motorcycling (with some snowboarding in between), it’s easy to say I’m an outdoor enthusiast. I’ve also got a German Shepard- Broly- who occupies my time in the best way, whether I’m playing with him outside or training him. 
+              <p>I currently reside in Charlotte, North Carolina. When I'm not working or strengthening my skill set, you can find me actively exploring all that this beautiful state has to offer. From mountain biking to motorcycling (with some snowboarding in between), it’s easy to say I’m an outdoor enthusiast. I’ve also got a German Shepard- Broly- who occupies my time in the best way, whether I’m playing with him outside or training him. 
               </p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
                     <span>Joshua Shepelsky</span><br />
-                    <span>Irvine, CA US
+                    <span>Charlotte, NC US
                     </span><br />
                     <span>jshepelsk@gmail.com</span>
                   </p>

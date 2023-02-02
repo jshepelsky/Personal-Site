@@ -10,13 +10,13 @@ export default class ContactMe extends Component {
               </div>
               <div className="ten columns">
               <p className="lead">
-                  Thank you for taking the time to explore my portfolio and learn a little about me. If you would like to contact me, please email <a href="mailto:jshepelsk@gmail.com?Subject=Portfolio%20Inquiry" target="_top">jshepelsk@gmail.com</a>.
+                  Thank you for taking the time to explore my website and learn a little about me. If you would like to contact me, please email <a href="mailto:jshepelsk@gmail.com?Subject=Portfolio%20Inquiry" target="_top">jshepelsk@gmail.com</a>.
               </p>
               <div className="widget widget_contact">
                   <h4>Contact Details</h4>
                   <p className="address">
                   Joshua Shepelsky<br />
-                  Irvine, CA US<br />
+                  Charlotte, NC US<br />
                   jshepelsk@gmail.com<br />
                   </p>
               </div>
